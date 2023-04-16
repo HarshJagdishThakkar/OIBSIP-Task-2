@@ -1,4 +1,4 @@
-# OASIS-INFOBYTE-INTERNSHIP-Task-2
+# OIBSIP-Task-2
 UNEMPLOYMENT ANALYSIS WITH PYTHON
 
 Unemployment is measured by the unemployment rate which is the number of people
